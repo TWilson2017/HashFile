@@ -1,0 +1,10 @@
+1. Get file name and open file 
+2. Read file char by char till EOF reached
+  2A. Make a switch FUNCTION to count the number of times each NON-WHITESPACE character occurs
+   Example : 2 Periods, 1 B etc. (USE ASCII TABLE) 
+3. Make a FUNCTION with a for loop and if statements to print symbol frequencies with up to 10 per line
+and spacing (COME UP WITH WAY TO MAKE IT PRINT ONLY UP TO 10 PER LINE) - setw
+4. Compute hash integer value
+
+Array of characters [256]
+count subscript 
